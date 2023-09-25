@@ -12,7 +12,7 @@
 .layout{
 	background-color:#f5f5f5;
 	display:flex;
-	justify-content:space-evenly;
+	justify-content:space-around;
 	height:100vh;	
 }
 .latest-news-section{
