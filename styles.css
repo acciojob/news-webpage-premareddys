@@ -10,6 +10,10 @@
 }
 .header{
 	background-color:#011e29;
+	display:flex;
+	justify-content:center;
+	flex-direction:row;
+	flex-wrap:wrap;
 	text-align:center;
 	padding:5px;
 }
